@@ -12,7 +12,7 @@ To install the script:
 
 Uninstall
 =========
-Uninstall the script:
+To uninstall the script:
 
 .. code-block:: bash
 
