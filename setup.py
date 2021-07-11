@@ -74,7 +74,7 @@ setup(name='Maximum',
       cmdclass={'build_py': build_py},
       include_package_data=True,
       entry_points={
-        'console_scripts': ['run_max=maximum.run_max:main']
+        'console_scripts': ['runmax=maximum.runmax:main']
       },
       project_urls={  # Optional
           'Bug Reports': 'https://github.com/raul23/Maximum/issues',
