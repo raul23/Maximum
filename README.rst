@@ -4,7 +4,7 @@ Maximum
 
 Installation
 ============
-To install the script:
+To install the ``maximum`` package (+script):
 
 .. code-block:: bash
 
@@ -12,7 +12,7 @@ To install the script:
 
 Uninstall
 =========
-To uninstall the script:
+To uninstall the ``maximum`` package (+script):
 
 .. code-block:: bash
 
